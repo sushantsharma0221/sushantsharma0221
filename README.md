@@ -1,6 +1,6 @@
 I am a final year student of Computer Science Engineering at the University Institute of Information Technology, Shimla, Himachal Pradesh, India.
 I am a front-end developer and have experience in working with front-end technologies which include HTML/CSS/BOOTSTRAP/JAVASCRIPT/REACT.
-I have :
+I have >
 > Implemented websites, and landing pages from concept through deployment
 > Standardized all output with a new responsive, mobile-first approach and strategy
 > Collaborated with product team members to implement new feature developments.
